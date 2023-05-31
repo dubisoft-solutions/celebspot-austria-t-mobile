@@ -89,6 +89,8 @@ body {
 .container {
   max-width: 720px;
   margin: 0 auto;
+  padding-right: 1rem;
+  padding-left: 1rem;
 }
 
 a {
@@ -98,10 +100,6 @@ a {
 
 .text-white {
   color: #FFFFFF;
-}
-
-.text-success {
-  color: #00B262;
 }
 
 .text-center {
